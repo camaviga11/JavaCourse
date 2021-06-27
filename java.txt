@@ -1,0 +1,52 @@
+//Tipos de datos enteros
+long   = 8 Bytes
+
+int    = 4 Bytes -2 147 483 648 a 2 147 483 648
+
+Short  = 2 Bytes -32,768 a 32767
+
+byte   = 1 Bytes -128 a 127
+
+//coma flotante
+
+float  = 4 Bytes 6 a 7 decimales significativos
+
+double = 8 Bytes, 15 decimales significativas
+
+//Tipo char
+para representar caracteres
+
+//Tipo boolean 
+true o false
+
+//constantes 
+ej: final int variable;
+
+//operadores aritmeticos
+
++
+-
+*
+/
+// operadores logicos, relacionales y booleanos
+>  = mayor que
+>= = mayor o igual
+<= = menor o igual
+<  = menor que
+<> = mayor o menor que
+!= = diferente de
+== = igual que 
+&& = y logico
+|| = o logico
+!  = operador not 
+// operadores de incremento y decremento 
+++ = incremento
+-- = decremento 
++= numero = igual al lo que tiene el valor asignado mas un numero
+-= numero = igual al lo que tiene el valor asignado menos un numero
+
+//concatenacion 
+
++  = une dos cosas 
+
+
